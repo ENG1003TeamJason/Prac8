@@ -3,6 +3,12 @@ LIST OF MEMBERS FOR TEAM JASON
 MEMBER 1 NIC
  
 MEMBER 2 MICHAEL
+
+Hello im michael jasper
+
+I will help
+
+Can do chemistry
  
 MEMBER 3 THEO
 Brief introduction
@@ -11,3 +17,8 @@ Role in project: team leader
  
 Preferred branch of engineering: chemical bo
  
+<<<<<<< HEAD
+=======
+MEMBER 4 NAME
+
+>>>>>>> master
