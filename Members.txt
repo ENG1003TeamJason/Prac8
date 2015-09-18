@@ -5,5 +5,10 @@ MEMBER 1 NIC
 MEMBER 2 MICHAEL
  
 MEMBER 3 THEO
+Brief introduction
+ 
+Role in project: Team Leader (maybe, actually no Jason is team leader forever and ever)
+ 
+Preferred branch of engineering: Chemical bruh
  
 MEMBER 4 NAME
