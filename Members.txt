@@ -13,9 +13,12 @@ Can do chemistry
 MEMBER 3 THEO
 Brief introduction
  
-Role in project: Team Leader (maybe, actually no Jason is team leader forever and ever)
+Role in project: team leader 
  
-Preferred branch of engineering: Chemical bruh
+Preferred branch of engineering: chemical bo
  
+<<<<<<< HEAD
+=======
 MEMBER 4 NAME
 
+>>>>>>> master
